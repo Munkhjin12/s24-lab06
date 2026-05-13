@@ -1,3 +1,3 @@
 # Inheritance and Delegation
 
-Teams-д зааварчилгаа байгаа
+Teams-д зааварчилга
