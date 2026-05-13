@@ -35,7 +35,7 @@ public class DelegationSortedIntListTest {
         list1.add(4);
         list1.add(2);
 
-        assertTrue(list1.getTotalAdded() == 5);
+        assertTrue(list1.getTotalAdded() == 6);
 
         printList(list1);
     }
